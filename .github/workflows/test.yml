@@ -29,5 +29,5 @@ jobs:
      
       - name: Build and push Docker image
         run: |
-          docker build -t falcccooo/nyaste-docker-example .
-          docker push falcccooo/nyaste-docker-example 
+          docker build -t flacccooo/nyaste-docker-example .
+          docker push flacccooo/nyaste-docker-example 
